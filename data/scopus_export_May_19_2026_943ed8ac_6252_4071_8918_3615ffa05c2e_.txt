@@ -1,0 +1,108 @@
+Scopus
+EXPORT DATE: 19 May 2026
+
+Fahmi A., Macbrayne A., Kyrimi E., McLachlan S., Humby F., Marsh W., Pitzalis C.
+AUTHOR FULL NAMES: Fahmi, Ali (57219585334); Macbrayne, Amy (57220065684); Kyrimi, Evangelia (57205578943); McLachlan, Scott (57198310967); Humby, Frances (15922911200); Marsh, William (57212474255); Pitzalis, Costantino (57203081188)
+57219585334; 57220065684; 57205578943; 57198310967; 15922911200; 57212474255; 57203081188
+Causal Bayesian Networks for Medical Diagnosis: A Case Study in Rheumatoid Arthritis
+(2020) 2020 IEEE International Conference on Healthcare Informatics, ICHI 2020, art. no. 9374327, Cited 8 times.
+DOI: 10.1109/ICHI48887.2020.9374327
+https://www.scopus.com/pages/publications/85103207287?origin=resultslist
+
+ABSTRACT: Bayesian network (BN) models have been widely applied in medical diagnosis. These models can be built from different sources, including both data and domain knowledge in the form of expertise and literature. Although it might seem simple to depend only on data, this will not be the best approach unless a large dataset is available. In this study, we present a knowledge-based BN modelling approach which we applied for diagnosing the chronic disease of rheumatoid arthritis (RA). We illustrate the process of extracting the relevant knowledge, starting by identifying the BN variables implied by the activities and decision points shown in a model of the caremap for RA diagnosis. To complete this, further medical knowledge is elicited from an expert panel of rheumatologists, the medical literature is investigated, and a data set is used to parameterise the model. We compare the performance of this knowledge-based BN with another BN model learnt entirely from data. The results show that our proposed knowledge-based model outperforms the data-driven one. © 2020 IEEE.
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Bucci G., Sandrucci V., Vicario E.
+AUTHOR FULL NAMES: Bucci, G. (55545901900); Sandrucci, V. (25925382800); Vicario, E. (7004018543)
+55545901900; 25925382800; 7004018543
+Ontologies and Bayesian networks in medical diagnosis
+(2011) Proceedings of the Annual Hawaii International Conference on System Sciences, art. no. 5718690, Cited 28 times.
+DOI: 10.1109/HICSS.2011.333
+https://www.scopus.com/pages/publications/79952903528?origin=resultslist
+
+ABSTRACT: The amount of information that must be taken into account in medical diagnosis is huge and subject to evolution. Ontologies are a means for formalizing the concepts of the domain of interest. Open, interoperable ontologies already exist for the biomedical field, enabling scientists to communicate with minimum ambiguity. Unfortunately, reasoners acting upon ontologies operate in a deterministic manner, which is unsuitable for the medical domain, where uncertainty must also be taken into account. Bayesian networks (BNs) offer a coherent and intuitive representation of uncertain domain knowledge. This paper presents an approach to the use of ontologies and BNs in medical diagnosis. The approach is based on the adoption of predefined structures for the BNs. These lead to reduced extensions to the domain ontology, yet allowing probabilistic analysis. © 2011 IEEE.
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Cheng J., Zhu C., Fu W., Wang C., Sun J.
+AUTHOR FULL NAMES: Cheng, Jiangzhou (55831657700); Zhu, Cai (57201353508); Fu, Wenlong (56004659400); Wang, Canxia (57206274805); Sun, Jing (57206727819)
+55831657700; 57201353508; 56004659400; 57206274805; 57206727819
+An Imitation medical diagnosis method of hydro-turbine generating unit based on Bayesian network
+(2019) Transactions of the Institute of Measurement and Control, 41 (12), pp. 3406 - 3420, Cited 20 times.
+DOI: 10.1177/0142331219826665
+https://www.scopus.com/pages/publications/85061896188?origin=resultslist
+
+ABSTRACT: In order to improve the intelligent level of fault diagnosis and condition maintenance of hydropower units, an Imitation medical diagnosis method (IMDM) is proposed in this study. IMDM uses Bayesian networks (BN) as the technical framework, including three components: machine learning BN model, expert empirical BN model, and maintenance decision model. Its characteristics are as follows: (i) the machine learning model uses a new node selection method to solve the problem that the traditional fault diagnosis model is difficult to connect with the state monitoring system. (ii) The expert experience BN model improves the traditional method: using the fault tree model to transform the BN structure, Noisy-Or model to simplify conditional probability table, and fuzzy comprehensive evaluation method to obtain the conditional probability. (iii) By introducing the expected utility theory, a maintenance decision model is innovated, which makes sure the optimal maintenance decision scheme after the fault can be better selected. The performance of this proposed method is evaluated by using the experimental data. The results show that the accuracy of the fault reasoning model is higher than 80%, and the maintenance decision model successfully selects 236 optimal maintenance decision schemes from 3159 schemes generated by 13 faults. © The Author(s) 2019.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Refai A., Merouani H.F., Aouras H.
+AUTHOR FULL NAMES: Refai, Ahlem (57190686615); Merouani, H.F. (12142681300); Aouras, Hayet (56449159500)
+57190686615; 12142681300; 56449159500
+Maintenance of a Bayesian network: application using medical diagnosis
+(2016) Evolving Systems, 7 (3), pp. 187 - 196, Cited 20 times.
+DOI: 10.1007/s12530-016-9146-8
+https://www.scopus.com/pages/publications/84982307151?origin=resultslist
+
+ABSTRACT: This study investigates a proposal of new Bayesian network model for the diagnosis of the most frequent breast pathologies and their implementation under a medical diagnostic system as part of maintenance. It consists in reproducing the process of doctor’s diagnosis that allows the identification of a disease through its symptoms. The proposed Bayesian network allows a representation of qualitative and quantitative knowledge expressing the uncertainty divided into four levels: clinical level, medical imaging level, biological level and diagnostic level. Bayesian networks are used to calculate the probabilities of the most likely a posteriori or causes, of an observed anomaly by using the clustering algorithm proposed by GeNIe tool and should be sufficient for our application. In order to improve the performances of the system and due to errors in the construction of the model which is supplied a priori by an expert, and the changes in the dynamics domains, we propose the maintenance of BN that implements the policies of updating a fixed structure and considers its reorganization by defining supplementary variables noted as maintenance actions that could be add them or deleted and their values can be edited. © 2016, Springer-Verlag Berlin Heidelberg.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zagorecki A., Orzechowski P., Hołownia K.
+AUTHOR FULL NAMES: Zagorecki, Adam (6506089294); Orzechowski, Piotr (58108327500); Hołownia, Katarzyna (55921532200)
+6506089294; 58108327500; 55921532200
+A system for automated general medical diagnosis using bayesian networks
+(2013) Studies in Health Technology and Informatics, 192 (1-2), pp. 461 - 465, Cited 11 times.
+DOI: 10.3233/978-1-61499-289-9-461
+https://www.scopus.com/pages/publications/84894346986?origin=resultslist
+
+ABSTRACT: In this paper we present a computer-assisted diagnostic system for general medical diagnosis developed using Bayesian network methodology and a medical data base created by experts. The system is intended for the general public as a self-diagnostic tool and is available online free of charge (currently only in Polish, with an English version to be released soon). It serves as an educational self-diagnostic tool intended to encourage the user to visit a doctor if the system so suggests, as is most often the case. In this paper we discuss the underlying modeling principles: assumptions behind Bayesian network architecture, solutions to scalability challenges, and computation performance. The distributed software architecture is presented, and finally, initial results based on over 97,000 diagnoses are discussed. The results suggest that the most common health problems for the young generation in Poland (typical user profile) are those resulting from stress and an unhealthy lifestyle. © 2013 IMIA and IOS Press.
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Nikovski D.
+AUTHOR FULL NAMES: Nikovski, Daniel (6506093682)
+6506093682
+Constructing Bayesian networks for medical diagnosis from incomplete and partially correct statistics
+(2000) IEEE Transactions on Knowledge and Data Engineering, 12 (4), pp. 509 - 516, Cited 170 times.
+DOI: 10.1109/69.868904
+https://www.scopus.com/pages/publications/0034215972?origin=resultslist
+
+ABSTRACT: The paper discusses several knowledge engineering techniques for the construction of Bayesian networks for medical diagnostics when the available numerical probabilistic information is incomplete or partially correct. This situation occurs often when epidemiological studies publish only indirect statistics and when significant unmodeled conditional dependence exists in the problem domain. While nothing can replace precise and complete probabilistic information, still a useful diagnostic system can be built with imperfect data by introducing domain-dependent constraints. We propose a solution to the problem of determining the combined influences of several diseases on a single test result from specificity and sensitivity data for individual diseases. We also demonstrate two techniques for dealing with unmodeled conditional dependencies in a diagnostic network. These techniques are discussed in the context of an effort to design a portable device for cardiac diagnosis and monitoring from multimodal signals. © 2000 IEEE.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Erpolat S.
+AUTHOR FULL NAMES: Erpolat, Semra (36894609800)
+36894609800
+A suggestion for constructing a Bayesian network model with simple correlation and an appropriate regression analysis: A real medical diagnosis application
+(2012) Mathematical and Computational Applications, 17 (3), pp. 212 - 222, Cited 1 times.
+DOI: 10.3390/mca17030212
+https://www.scopus.com/pages/publications/84859392048?origin=resultslist
+
+ABSTRACT: The major task of medical science is to prevent or diagnose disease. Medical diagnosis is usually made by using some blood metrics and in addition, to be able to reach better results, one can benefit from different scientific methods. In this paper a Bayesian network method is proposed. This method is a hybrid that uses simple correlation and according to dependent variable type either simple linear regression or logistic regression for constructing a Bayesian topology. The Bayesian network is a method for representing probabilistic relationships between variables associated with an outcome of interest. To develop a Bayesian network, a structure must first be constructed. To build the topology of the Bayesian network, some alternative method can be used. One is using domain experts who usually have a good grasp of the conditional dependencies in the domain to develop the structure of the Bayesian network. Another is using structure learning algorithms, such as genetic algorithms, to construct the network topology from training data. In this paper a different construction method is proposed by using correlation analysis and one of the simple linear regression or logistic regression analyses. First, correlations of the examined variables are found. Then according to the significant correlation coefficients, the degree and direction of the interactions between these variables are established by using either simple linear regression or logistic regression. Finally the Bayesian network model is constructed by using this information. For evaluating our model, another model which does not have any relation between the input variables is also constructed. And these two models are compared by using an original thyroid data set. It is concluded that our proposed model provides a high degree of performance and good explanatory power and it may prove useful for clinicians in the medical field.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Alobaidi A.T.S., Mahmood N.T.
+AUTHOR FULL NAMES: Alobaidi, Ahmed T. Sadiq (55647541900); Mahmood, Noor Thamer (56267468700)
+55647541900; 56267468700
+Modified full bayesian networks classifiers for medical diagnosis
+(2013) Proceedings - 2013 International Conference on Advanced Computer Science Applications and Technologies, ACSAT 2013, art. no. 6836539, pp. 5 - 12, Cited 7 times.
+DOI: 10.1109/ACSAT.2013.10
+https://www.scopus.com/pages/publications/84904165434?origin=resultslist
+
+ABSTRACT: This paper is present a modified Bayesian Network (BN) for Full Bayesian Classifier (FBC) for used it to diagnoses the condition of a patient from some of symptoms and medical history. The conditions are the heart diseases and the nervous diseases. Modified for FBC is depended on common structure known as naïve Bayes. Determining the network structure is D-separated by the variable. Each variable has CPT and each disease (table) has Probability. By modified the equation for find CPT for each variable and Probability for each disease (table) in Modified-FBC (M-FBC) structure, the system for diagnosis is designed. The experimental resulted show that the successful ratio of heart diseases (93%) and nervous system diseases (98%) approximately. © 2013 IEEE.
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
